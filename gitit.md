@@ -1,6 +1,6 @@
 # GitIt -- Gitting Started With Git & *Snap!*
 
-Welcome, here's a great way to get started working with *Snap!*. We'll explain why we use GitHub, and what the point of this whole thing is. 
+Welcome, here's a great way to get started working with *Snap!*. We'll explain why we use GitHub, and what the point of this whole thing is.
 
 **Of course, much of this is a work in progress, so please bear with me.**
 
@@ -78,6 +78,15 @@ Welcome, here's a great way to get started working with *Snap!*. We'll explain w
 
 <a name="links"></a>
 #### Links Galore!
+This is gonna be a collection of links. Eventually, I might add explanation.
+
+* https://help.github.com/articles/adding-a-remote
+* https://help.github.com/categories/18/articles
+* https://help.github.com/
+* http://try.github.io/levels/1/challenges/1
+* http://training.github.com/resources/videos/
+* http://hub.github.com
+
 
 <a name="terms"></a>
 #### What the Heck Does that Mean?!
