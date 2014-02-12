@@ -90,6 +90,13 @@ This is gonna be a collection of links. Eventually, I might add explanation.
 
 <a name="terms"></a>
 #### What the Heck Does that Mean?!
+(Temporarily just trying to figure out the style for this section.)
+
+* **Term**:
+    * Definition
+* **Term**:
+    * Definition
+
 
 ---
 Holy Crap! This was more than I was expecting.
